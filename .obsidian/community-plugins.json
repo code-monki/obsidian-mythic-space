@@ -1,5 +1,25 @@
 [
   "dataview",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "quickadd",
+  "obsidian-icon-folder",
+  "buttons",
+  "obsidian-image-toolkit",
+  "fantasy-calendar",
+  "folder-note-plugin",
+  "obsidian-leaflet-plugin",
+  "obsidian-dice-roller",
+  "obsidian-5e-statblocks",
+  "obsidian-linter",
+  "obsidian-banners",
+  "obsidian-footnotes",
+  "folder-note-core",
+  "theme-picker",
+  "obsidian-image-caption",
+  "markdown-attributes",
+  "open-with",
+  "obsidian-trim-whitespace",
+  "auto-glossary",
+  "close-similar-tabs"
 ]

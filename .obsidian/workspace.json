@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d40e395388c771e1",
+        "id": "2eaa3935af12af69",
         "type": "tabs",
         "children": [
           {
-            "id": "6eb2f8e5c2dc7d70",
+            "id": "28347b058d1a0074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "License.md",
+                "file": "Characters/Species/Humans/Humans.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "License.md",
+                "file": "Characters/Species/Humans/Humans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "License.md",
+                "file": "Characters/Species/Humans/Humans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "License.md"
+                "file": "Characters/Species/Humans/Humans.md"
               }
             }
           },
@@ -165,10 +165,19 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "75c90e10e04164e5",
+  "active": "28347b058d1a0074",
   "lastOpenFiles": [
-    "Scripts",
-    "Templates",
-    "License.md"
+    "License.md",
+    "Characters/Species/Humans/Humans.md",
+    "Characters/Species/Xin",
+    "Characters/Species/Synths",
+    "Characters/Species/Kathir",
+    "Characters/Species/Irumai",
+    "Characters/Species/Brachinids",
+    "Characters/Species/Humans",
+    "Characters/Species",
+    "Characters/NPCs",
+    "Characters/Players",
+    "Campaign/Locations"
   ]
 }

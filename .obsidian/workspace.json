@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "2eaa3935af12af69",
+        "id": "b8c78c4644284c68",
         "type": "tabs",
         "children": [
           {
-            "id": "28347b058d1a0074",
+            "id": "f21fbdc7f2d9cc66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Species/Humans/Humans.md",
+                "file": "Characters/Species/Irumai.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbad0382d31cf596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Species/Kathir.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b14ac06fc634dac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Species/Synths.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06954a89e60d158b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Species/Xin.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Species/Humans/Humans.md",
+                "file": "Characters/Species/Xin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Species/Humans/Humans.md",
+                "file": "Characters/Species/Xin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Species/Humans/Humans.md"
+                "file": "Characters/Species/Xin.md"
               }
             }
           },
@@ -162,22 +199,36 @@
       "templater-obsidian:Templater": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-trim-whitespace:Trim whitespace": false
+      "obsidian-trim-whitespace:Trim whitespace": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28347b058d1a0074",
+  "active": "06954a89e60d158b",
   "lastOpenFiles": [
+    "Characters/Species/Synths.md",
+    "Characters/Species/Xin.md",
+    "Images/xin.png",
+    "Characters/Species/Kathir.md",
+    "Images/synths.png",
+    "Characters/Species/Irumai.md",
+    "Images/kathir.png",
+    "Characters/Species/Humans.md",
+    "Characters/Species/Brachinids.md",
+    "Images/irumai.png",
+    "Images/brachinids.png",
+    "Images/humans.png",
+    "Images",
+    "humans.png {.portrait-left}.md",
+    "<img class=\"portrait-left\">humans.png.md",
     "License.md",
-    "Characters/Species/Humans/Humans.md",
     "Characters/Species/Xin",
     "Characters/Species/Synths",
     "Characters/Species/Kathir",
     "Characters/Species/Irumai",
     "Characters/Species/Brachinids",
-    "Characters/Species/Humans",
+    "Characters/Humans",
     "Characters/Species",
     "Characters/NPCs",
-    "Characters/Players",
-    "Campaign/Locations"
+    "Characters/Players"
   ]
 }

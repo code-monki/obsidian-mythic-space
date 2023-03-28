@@ -3,5 +3,6 @@
   "useTab": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }

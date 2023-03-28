@@ -16,10 +16,11 @@
   "obsidian-footnotes",
   "folder-note-core",
   "theme-picker",
-  "obsidian-image-caption",
   "markdown-attributes",
   "open-with",
   "obsidian-trim-whitespace",
   "auto-glossary",
-  "close-similar-tabs"
+  "close-similar-tabs",
+  "obsidian-style-settings",
+  "table-editor-obsidian"
 ]

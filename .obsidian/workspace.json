@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b92142a2fd613568",
+        "id": "dd0b1b4ce8b24b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "c967452e1c58117a",
+            "id": "dd5f72e63ac0d7e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Character Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Player Character Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Player Character Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "75c90e10e04164e5",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
+              "state": {
+                "file": "Characters/Player Character Index.md"
+              }
             }
           },
           {
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,19 +152,20 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4102d6448438c05e",
+  "active": "dd5f72e63ac0d7e2",
   "lastOpenFiles": [
     "Characters/Player Character Index.md",
-    "Characters/Players/John Wick/John Wick1.md",
     "Characters/Players/John Wick/John Wick.md",
     "Characters/Players/John Wick",
-    "Characters/Character Index.md",
     "Templates/character-template.md",
+    "Characters/Players/John Wick/John Wick1.md",
+    "John Wick/John Wick.md",
+    "John Wick",
+    "Characters/Character Index.md",
     "Scratch.md",
     "Characters/NPCs/Untitled.md",
     "Characters/Players/John Doe.md",
@@ -195,7 +196,6 @@
     "Images/irumai.png",
     "Images/brachinids.png",
     "Images/humans.png",
-    "Images",
     "humans.png {.portrait-left}.md",
     "<img class=\"portrait-left\">humans.png.md",
     "License.md"

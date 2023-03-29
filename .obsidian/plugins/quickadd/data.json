@@ -1,9 +1,40 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "a796385e-551d-407c-a492-31f7cb5ef260",
+      "name": "Add Player Character",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/character-template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}/{{NAME}}.md"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Characters/Players"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Templates",
   "announceUpdates": true,
   "version": "0.17.1",
   "migrations": {

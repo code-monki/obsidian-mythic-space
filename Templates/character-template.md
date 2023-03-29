@@ -1,4 +1,5 @@
 ---
+player: ""
 species: ""
 age: 0
 homeworld: ""
@@ -12,4 +13,4 @@ xp: 0
 legacy_pts: 0
 ---
 
-# <%+ tp.file.title %>
+ # <%+ tp.file.title %>

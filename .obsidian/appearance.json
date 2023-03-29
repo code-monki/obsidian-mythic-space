@@ -1,8 +1,9 @@
 {
   "accentColor": "#b2e1f5",
-  "theme": "system",
+  "theme": "moonstone",
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "portrait-left"
+    "portrait-left",
+    "no-table-headers"
   ]
 }

@@ -1,3 +1,6 @@
+---
+tag: species
+---
 # <%+ tp.file.title %>
 ![[synths.png|left|128]]
 

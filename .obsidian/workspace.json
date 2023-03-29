@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c78c4644284c68",
+        "id": "cbf7539064ed3985",
         "type": "tabs",
         "children": [
           {
-            "id": "f21fbdc7f2d9cc66",
+            "id": "104a256e908ce23a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Species/Irumai.md",
+                "file": "Characters/NPCs/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bbad0382d31cf596",
+            "id": "0695e49bdc8017cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Species/Kathir.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b14ac06fc634dac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Species/Synths.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06954a89e60d158b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Species/Xin.md",
-                "mode": "preview",
+                "file": "Templates/character-template.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Species/Xin.md",
+                "file": "Characters/NPCs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Species/Xin.md",
+                "file": "Characters/NPCs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Species/Xin.md"
+                "file": "Characters/NPCs/Untitled.md"
               }
             }
           },
@@ -199,21 +175,39 @@
       "templater-obsidian:Templater": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-trim-whitespace:Trim whitespace": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06954a89e60d158b",
+  "active": "4102d6448438c05e",
   "lastOpenFiles": [
-    "Characters/Species/Synths.md",
-    "Characters/Species/Xin.md",
+    "Templates/character-template.md",
+    "Characters/Players/John Doe.md",
+    "Scratch.md",
+    "Characters/Players/Untitled.md",
+    "Characters/NPCs/Untitled.md",
+    "Data/Species/Humans.md",
+    "Data/Species/Brachinids.md",
+    "Characters/Players/John Doe/John Doe.md",
+    "Characters/John Doe/John Doe.md",
+    "Characters/Players/John Doe",
+    "Characters/John Doe/Test.md",
+    "<%+ tp.frontmatter.species %>.md",
+    "Characters/Aspects/Assassin.md",
+    "Characters/John Doe",
+    "Equipment",
+    "Ships",
+    "Data/Aspects",
+    "Data/aspects.js",
+    "Data",
+    "Data/Species/Index.md",
+    "Data/Species/Xin.md",
+    "Data/Species/Synths.md",
+    "Data/Species/Kathir.md",
+    "Data/Species/Irumai.md",
+    "Data/Aspects",
     "Images/xin.png",
-    "Characters/Species/Kathir.md",
     "Images/synths.png",
-    "Characters/Species/Irumai.md",
     "Images/kathir.png",
-    "Characters/Species/Humans.md",
-    "Characters/Species/Brachinids.md",
     "Images/irumai.png",
     "Images/brachinids.png",
     "Images/humans.png",
@@ -221,14 +215,6 @@
     "humans.png {.portrait-left}.md",
     "<img class=\"portrait-left\">humans.png.md",
     "License.md",
-    "Characters/Species/Xin",
-    "Characters/Species/Synths",
-    "Characters/Species/Kathir",
-    "Characters/Species/Irumai",
-    "Characters/Species/Brachinids",
-    "Characters/Humans",
-    "Characters/Species",
-    "Characters/NPCs",
-    "Characters/Players"
+    "Characters/Species/Xin"
   ]
 }

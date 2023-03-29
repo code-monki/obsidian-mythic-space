@@ -1,3 +1,6 @@
+---
+tag: species
+---
 # <%+ tp.file.title %>
 
 ![[xin.png|left|128]]

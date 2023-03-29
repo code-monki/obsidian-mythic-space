@@ -1,3 +1,6 @@
+---
+tag: species
+---
 # <%+ tp.file.title %>
 ![[irumai.png|left|128]]
 

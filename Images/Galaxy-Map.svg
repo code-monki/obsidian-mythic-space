@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="128 63.5 2368.528 2561" width="2368.528" height="2561">
+  <defs/>
+  <g id="Canvas_1" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_23">
+        <rect x="320" y="64" width="512" height="640" fill="white"/>
+        <rect x="320" y="64" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_24">
+        <rect x="832" y="64" width="512" height="640" fill="white"/>
+        <rect x="832" y="64" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_25">
+        <rect x="320" y="704" width="512" height="640" fill="#666"/>
+        <rect x="320" y="704" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_26">
+        <rect x="320" y="1344" width="512" height="640" fill="#666"/>
+        <rect x="320" y="1344" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_27">
+        <rect x="320" y="1984" width="512" height="640" fill="#c0c0ff"/>
+        <rect x="320" y="1984" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_28">
+        <rect x="832" y="704" width="512" height="640" fill="#ccc"/>
+        <rect x="832" y="704" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_29">
+        <rect x="1344" y="64" width="512" height="640" fill="white"/>
+        <rect x="1344" y="64" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_30">
+        <rect x="1856" y="64" width="512" height="640" fill="#80ffff"/>
+        <rect x="1856" y="64" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_31">
+        <rect x="1344" y="704" width="512" height="640" fill="#ccc"/>
+        <rect x="1344" y="704" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_32">
+        <rect x="1856" y="704" width="512" height="640" fill="#80ffff"/>
+        <rect x="1856" y="704" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_33">
+        <rect x="832" y="1344" width="512" height="640" fill="#ccc"/>
+        <rect x="832" y="1344" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_34">
+        <rect x="1344" y="1344" width="512" height="640" fill="#ccc"/>
+        <rect x="1344" y="1344" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_35">
+        <rect x="1856" y="1344" width="512" height="640" fill="#80ffff"/>
+        <rect x="1856" y="1344" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_36">
+        <rect x="832" y="1984" width="512" height="640" fill="#c0c0ff"/>
+        <rect x="832" y="1984" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_37">
+        <rect x="1344" y="1984" width="512" height="640" fill="#c0c0ff"/>
+        <rect x="1344" y="1984" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_38">
+        <rect x="1856" y="1984" width="512" height="640" fill="#80ffff"/>
+        <rect x="1856" y="1984" width="512" height="640" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_40">
+        <text transform="translate(1093 1285)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="128" fill="black" x="45474735e-20" y="122">The Verge</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <text transform="translate(474.052 1714.636) rotate(-90)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="128" fill="white" x="0" y="122">Empire of Man</tspan>
+        </text>
+      </g>
+      <g id="Graphic_42">
+        <text transform="translate(2220.556 950.028) rotate(90)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="128" fill="black" x="0" y="122">The Alliance</tspan>
+        </text>
+      </g>
+      <g id="Graphic_43">
+        <text transform="translate(453 2181)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="128" fill="black" x="331.904" y="122">Brachnid</tspan>
+          <tspan font-family="Helvetica Neue" font-size="128" fill="black" x="256" y="274.584">Consortium</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <text transform="translate(709 325)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="128" fill="black" x="0" y="122">The Singularity</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

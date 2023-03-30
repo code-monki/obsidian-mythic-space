@@ -4,6 +4,7 @@
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "portrait-left",
-    "no-table-headers"
+    "no-table-headers",
+    "center-text"
   ]
 }

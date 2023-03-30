@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd0b1b4ce8b24b5e",
+        "id": "c15499d3505c3c26",
         "type": "tabs",
         "children": [
           {
-            "id": "dd5f72e63ac0d7e2",
+            "id": "a2382110613a6e76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/character-template.md",
+                "file": "Campaign/Galaxy Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/character-template.md",
+                "file": "Campaign/Galaxy Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/character-template.md",
+                "file": "Campaign/Galaxy Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/character-template.md"
+                "file": "Campaign/Galaxy Map.md"
               }
             }
           },
@@ -156,12 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd5f72e63ac0d7e2",
+  "active": "a2382110613a6e76",
   "lastOpenFiles": [
+    "Data/Species/Humans.md",
+    "Campaign/Galaxy Map.md",
+    "Human.md",
+    "Templates/character-template.md",
     "Characters/Player Character Index.md",
     "Characters/Players/John Wick/John Wick.md",
     "Characters/Players/John Wick",
-    "Templates/character-template.md",
     "Characters/Players/John Wick/John Wick1.md",
     "John Wick/John Wick.md",
     "John Wick",
@@ -170,7 +173,6 @@
     "Characters/NPCs/Untitled.md",
     "Characters/Players/John Doe.md",
     "Characters/Players/Untitled.md",
-    "Data/Species/Humans.md",
     "Data/Species/Brachinids.md",
     "Characters/Players/John Doe/John Doe.md",
     "Characters/John Doe/John Doe.md",
@@ -197,7 +199,6 @@
     "Images/brachinids.png",
     "Images/humans.png",
     "humans.png {.portrait-left}.md",
-    "<img class=\"portrait-left\">humans.png.md",
-    "License.md"
+    "<img class=\"portrait-left\">humans.png.md"
   ]
 }

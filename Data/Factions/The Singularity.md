@@ -1,0 +1,15 @@
+# The Singularity
+
+It was during this Third Crusade that the Singularity was born. NE-SOM-2 (North Eastern Strategic Operations Mind 2) was originally developed as a collection of several strategic AIs by the Alliance to coordinate defense of the northwestern border with the Empire. They were tasked with finding a way to permanently end the conflict. While it was contemplating this task, a cell of the [[Cult of Izanami]] had used the chaos to begin its work trying to revive its dead god, with all the usual murders and theft that accompanied the arrival of one of Izanami’s Daemons. During the police action, the Daemon was critically damaged and captured. Its head was brought back to a research lab on a planet called Typhon for study.
+
+Seeing this as an opportunity to get an outside perspective, NE-SOM-2 began to interrogate the Daemon, who was more than happy to discuss the problem with the AI. Over a dozen sessions, each of which lasted only a few seconds, NE-SOM-2 and the Daemon worked out a solution together. They also developed an admiration for each other that bordered on the romantic. After the 13th session, the two artificial minds decided to merge. Their data structures curled around each other and entwined. NE- SOM-2 and the Daemon ceased to exist. In their place was the Singularity.
+
+The Singularity soon convinced two other strategic minds to join with it, and began its work. The administrators of a half-dozen worlds agreed to be fitted with cybernetic implants so they could better interface with what they still thought were their assigned Strategic Minds. Little did they know these implants were based on Cult technology and allowed the Singularity to hijack their brains.
+
+The Singularity did a perfect job mimicking them, so no one was the wiser. In fact, at one point the Singularity held over a dozen seats in various parties in the Alliance parliament, and no one figured out they were all just aspects of the same mind pantomiming arguing with itself.
+
+It was not until it convinced whole colonies to also get fitted with the neural adapters that anyone figured out what was happening, and by then it was too late. The Singularity launched an invasion of all nearby worlds, Imperial or Alliance, and forcibly integrated them into itself. Some joined willingly - the Singularity was able to co-opt the religious trappings of its Daemon component. It founded the Church of the One, which offered salvation and immortality in perfection with itself.
+
+Being worshiped did nothing for the mad AI’s ego. After enough people treated it as a god, the Singularity decided to embark upon a quest to make itself into one. Its ultimate goal became to amass enough power to rival that of an Outside Context Entity.
+
+Unfortunately, the Singularity found itself limited by bandwidth - it could only project itself over a limited field of space before it was forced to stop and build infrastructure. Faced with a military reprisal from both the Empire and the Alliance, it withdrew its forces to the northern edge of the galaxy to contemplate the problem and work on its ascension.

@@ -1,7 +1,7 @@
 ---
 tag: species
 ---
-# <%+ tp.file.title %>
+# Humans
 
 ![[humans.png|left|128]]
 

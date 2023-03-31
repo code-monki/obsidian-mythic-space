@@ -1,7 +1,7 @@
 ---
 tag: species
 ---
-# <%+ tp.file.title %>
+# Synths
 ![[synths.png|left|128]]
 
 **Synths** are AIs legally recognized as people. Many synths are digitally uploaded consciousnesses from a reptilian species that was once known as the Ur who went biologically extinct when they were consumed by the Blight. Others are members of other species who learned how to upload their brains from the Ur. The rarest synths are True AIs - wholly original personalities who were never based on an organic mind.

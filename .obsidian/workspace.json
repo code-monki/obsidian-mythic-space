@@ -18,6 +18,54 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bda501042d2f4cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Factions/The Alliance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49bcbd33a29b9697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Factions/Empire of Man.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca574649ac592c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Factions/Cult of Izanami.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcc728268d3ad9e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Species/Xin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -156,10 +204,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2382110613a6e76",
+  "active": "4102d6448438c05e",
   "lastOpenFiles": [
-    "Data/Species/Humans.md",
+    "Data/Pirate Clans",
+    "Data/Mega Corporations/Colonial Exports.md",
+    "Data/Factions/Cult of Izanami.md",
+    "Data/Mega Corporations",
+    "Data/Factions/Brachinid Consortium.md",
+    "Data/Factions/The Singularity.md",
+    "Data/Factions/Untitled.md",
     "Campaign/Galaxy Map.md",
+    "Data/Species/Xin.md",
+    "Data/Species/Synths.md",
+    "Data/Species/Kathir.md",
+    "Data/Species/Irumai.md",
+    "Data/Species/Humans.md",
+    "Data/Species/Brachinids.md",
+    "Data/Factions/Empire of Man.md",
+    "Data/Factions/The Alliance.md",
+    "Data/Factions",
     "Human.md",
     "Templates/character-template.md",
     "Characters/Player Character Index.md",
@@ -173,32 +236,17 @@
     "Characters/NPCs/Untitled.md",
     "Characters/Players/John Doe.md",
     "Characters/Players/Untitled.md",
-    "Data/Species/Brachinids.md",
-    "Characters/Players/John Doe/John Doe.md",
-    "Characters/John Doe/John Doe.md",
     "Characters/Players/John Doe",
-    "Characters/John Doe/Test.md",
-    "<%+ tp.frontmatter.species %>.md",
-    "Characters/Aspects/Assassin.md",
     "Characters/John Doe",
     "Equipment",
     "Ships",
     "Data/Aspects",
     "Data/aspects.js",
-    "Data",
-    "Data/Species/Index.md",
-    "Data/Species/Xin.md",
-    "Data/Species/Synths.md",
-    "Data/Species/Kathir.md",
-    "Data/Species/Irumai.md",
-    "Data/Aspects",
     "Images/xin.png",
     "Images/synths.png",
     "Images/kathir.png",
     "Images/irumai.png",
     "Images/brachinids.png",
-    "Images/humans.png",
-    "humans.png {.portrait-left}.md",
-    "<img class=\"portrait-left\">humans.png.md"
+    "Images/humans.png"
   ]
 }

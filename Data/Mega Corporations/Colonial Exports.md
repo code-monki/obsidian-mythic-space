@@ -1,0 +1,5 @@
+# Colonial Exports
+
+Colonial Exports, or ‘CX’ as it is more commonly called, is the largest shipping and logistics company in the galaxy. They franchise out resource extraction and mining operations, and provide goods and services to almost every colony in human space. They have offices in both Alliance as well as Imperial space, and have close dealings with the Brachinid Consortium. Despite these economic ties and ostensibly civilian status, Colonial Exports is also the largest Private Military Company in the galaxy. Their Colonial Marines provide security and police forces on transports and colonies everywhere. Their gear is known for being cheap and plentiful - with all the lack of quality that implies.
+
+CX operates much like the East India Trading companies during the Age of Sail in that they are a corporation that also controls large swaths of territory. It’s a bit like Amazon, if you could also order mercenaries and contracted personnel to staff your mining operation on the border from them as well.

@@ -1,7 +1,7 @@
 ---
 tag: species
 ---
-# <%+ tp.file.title %>
+# Brachinids
 
 ![[brachinids.png|left|128]]
 

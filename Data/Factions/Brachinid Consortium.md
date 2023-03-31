@@ -1,0 +1,11 @@
+# Brachinid Consortium
+
+The Brachinid Consortium is one of the greatest economic powerhouses in the galaxy. It is a collection of megacorporations and slaving guilds that serve as the de facto government of Brachinid space. Brachinids are large, intelligent arthropods that resemble a lanky 2 meter tall crab or spider. They naturally have ten limbs, eight spindly legs capable of fine manipulation, and two large crushing appendages known as ‘War Claws.’ Most of Brachinid society have their War Claws docked - slaves are not allowed to carry weapons and civilian workers are pressured into having them removed. If you see a Brachinid with their War Claws intact that means they are a soldier, or a member of Upper Management (the government of the Consortium).
+
+The Consortium was briefly part of the Alliance during the Blight Wars, but they left after the Alliance banned slavery. Tensions between the Consortium and the Alliance have been growing ever since. Though the Consortium has never fought an official war with the Alliance, there have been low level raids and police actions that have escalated the divide over the past few decades. There have been a handful of high profile incidents where raiding parties have posed as escaped slaves to infiltrate deep into Alliance space. This has caused prejudice and suspicion to run rampant, and has made immigration much harder for actual escaped slaves seeking refuge (which was the point of the raids in the first place).
+
+The Consortium has been courting uneasy alliances with the Empire of Man and Colonial Exports. The Empire is not happy
+
+doing business with xenos, but they do like free labor and their trade with the Consortium is propping up their highly militarized economy. Colonial Exports also freely makes use of their “indentured contractors,” though they try to keep this quiet since they don’t want to jeopardize their lucrative Alliance contracts.
+
+Brachinid leadership is corporate ideology taken to extremes. Imagine the worst excesses of Ancient Rome, the Antebellum South, and the Robber Barons of the 1920’s and you have a good idea of the attitudes of Upper Management.

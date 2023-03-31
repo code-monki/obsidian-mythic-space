@@ -1,7 +1,7 @@
 ---
 tag: species
 ---
-# <%+ tp.file.title %>
+# Kathir
 ![[kathir.png|left|128]]
 
 

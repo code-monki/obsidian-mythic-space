@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "8c5e971a8dd09746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Background Data/Pirate Clans/Void Riders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bda501042d2f4cbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Factions/The Alliance.md",
+                "file": "Background Data/Factions/The Alliance.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Factions/Empire of Man.md",
+                "file": "Background Data/Factions/Empire of Man.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Factions/Cult of Izanami.md",
+                "file": "Background Data/Factions/Cult of Izanami.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,13 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Species/Xin.md",
+                "file": "Background Data/Species/Xin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Galaxy Map.md",
+                "file": "Background Data/Pirate Clans/Void Riders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Galaxy Map.md",
+                "file": "Background Data/Pirate Clans/Void Riders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Galaxy Map.md"
+                "file": "Background Data/Pirate Clans/Void Riders.md"
               }
             }
           },
@@ -206,23 +219,26 @@
   },
   "active": "4102d6448438c05e",
   "lastOpenFiles": [
-    "Data/Pirate Clans",
-    "Data/Mega Corporations/Colonial Exports.md",
-    "Data/Factions/Cult of Izanami.md",
-    "Data/Mega Corporations",
-    "Data/Factions/Brachinid Consortium.md",
-    "Data/Factions/The Singularity.md",
-    "Data/Factions/Untitled.md",
+    "Background Data/Pirate Clans/Red Scarves.md",
+    "Background Data/Pirate Clans/Society for Creative Acquisition.md",
+    "Background Data/Pirate Clans/Void Riders.md",
     "Campaign/Galaxy Map.md",
-    "Data/Species/Xin.md",
-    "Data/Species/Synths.md",
-    "Data/Species/Kathir.md",
-    "Data/Species/Irumai.md",
-    "Data/Species/Humans.md",
-    "Data/Species/Brachinids.md",
-    "Data/Factions/Empire of Man.md",
-    "Data/Factions/The Alliance.md",
-    "Data/Factions",
+    "Background Data/Pirate Clans",
+    "Background Data/Mega Corporations/Colonial Exports.md",
+    "Background Data/Factions/Cult of Izanami.md",
+    "Background Data/Mega Corporations",
+    "Background Data/Factions/Brachinid Consortium.md",
+    "Background Data/Factions/The Singularity.md",
+    "Data/Factions/Untitled.md",
+    "Background Data/Species/Xin.md",
+    "Background Data/Species/Synths.md",
+    "Background Data/Species/Kathir.md",
+    "Background Data/Species/Irumai.md",
+    "Background Data/Species/Humans.md",
+    "Background Data/Species/Brachinids.md",
+    "Background Data/Factions/Empire of Man.md",
+    "Background Data/Factions/The Alliance.md",
+    "Background Data/Factions",
     "Human.md",
     "Templates/character-template.md",
     "Characters/Player Character Index.md",
@@ -234,14 +250,11 @@
     "Characters/Character Index.md",
     "Scratch.md",
     "Characters/NPCs/Untitled.md",
-    "Characters/Players/John Doe.md",
-    "Characters/Players/Untitled.md",
     "Characters/Players/John Doe",
     "Characters/John Doe",
     "Equipment",
     "Ships",
-    "Data/Aspects",
-    "Data/aspects.js",
+    "Background Data/Aspects",
     "Images/xin.png",
     "Images/synths.png",
     "Images/kathir.png",
